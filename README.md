@@ -1,2 +1,2 @@
 # counter
-DOM Practice: Counter
+DOM Practice: Counter - Practice of DOM elements and Logic
